@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Episodio I: La Amenaza Fantasma",
+        "year": 1999,
+        "director": "George Lucas",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=n1CUHjrc9Sc&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "La trama describe la historia del maestro jedi Qui-Gon Jinn y de su aprendiz Obi-Wan Kenobi, que escoltan y protegen a la Reina Amidala desde su planeta Naboo hasta Coruscant con la esperanza de encontrar una salida pacífica a un conflicto comercial interplanetario a gran escala. También trata del joven Anakin Skywalker antes de convertirse en Jedi, presentado como un esclavo con un potencial de la Fuerza inusualmente fuerte, y debe lidiar con el misterioso regreso de los Sith. "
+    },
+    {
+        "name": "Episodio II: El Ataque de los Clones",
+        "year": 2002,
+        "director": "George Lucas",
+        "pic_sm": "foto-2-chica.jpg",
+        "pic_lg": "foto-2-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=DywnxIuPtUs&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "La trama se desarrolla diez años después de los sucesos ocurridos en la película anterior, La amenaza fantasma. Después de la Batalla de Naboo, la galaxia se encuentra al borde de una guerra civil. Bajo la dirección de un Jedi renegado que se hace llamar Conde Dooku, muchos sistemas solares amenazan con la secesión de la República Galáctica. Tras los intentos de asesinato de la senadora Padmé Amidala, la anterior reina de Naboo, el Padawan Anakin Skywalker es asignado para protegerla, mientras que a su maestro, Obi-Wan Kenobi, se le asigna la investigación del intento de asesinato."
+    },
+    {
+        "name": "Episodio III: La Venganza de los Sith",
+        "year": 2005,
+        "director": "George Lucas",
+        "pic_sm": "foto-3-chica.jpg",
+        "pic_lg": "foto-3-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kqkfjBKmWc4&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "La trama describe una época en la que los Caballeros Jedi se han esparcido por toda la galaxia, dirigiendo un ejército clon masivo para enfrentar a los Separatistas Galácticos, tres años después del inicio de las Guerras Clon. El Canciller Palpatine fue secuestrado y el Maestro Jedi Obi-Wan Kenobi, acompañado de su aprendiz Anakin Skywalker, es enviado a rescatarlo en una misión, donde también debe eliminar a los Líderes Separatistas, el Conde Dooku y el General Grievous, para concluir el conflicto galáctico. Después de ser rescatado, el Canciller fortalece su amistad con Anakin, para poder convencerlo de que existen mayores beneficios en el Lado Oscuro de la Fuerza, que del Lado Luminoso. La Orden Jedi empieza a sospechar de la amistad entre el Canciller y Anakin, por lo que intenta averiguar los verdaderos objetivos de Palpatine. Cuando el Canciller se descubre, repentinamente, como el siniestro Lord Sith Darth Sidious, los destinos de la Orden Jedi y de la República Galáctica se encuentran expuestos ante un inminente peligro."
+    },
+    {
+        "name": "Episodio IV: Una Nueva Esperanza",
+        "year": 1977,
+        "director": "George Lucas",
+        "pic_sm": "foto-4-chica.jpg",
+        "pic_lg": "foto-4-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=beAH5vea99k&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "La trama describe la historia de un grupo de guerrilleros —conocidos como la Alianza Rebelde— cuyo objetivo es destruir la estación espacial Estrella de la Muerte, creada por el opresor Imperio Galáctico. Desde una perspectiva general, la historia se enfoca en un joven granjero llamado Luke Skywalker, quien, de forma repentina, se convertirá en un héroe conforme acompaña al Maestro Jedi Obi-Wan Kenobi en una misión que lo llevará a unirse a la Alianza Rebelde para ayudarles a destruir la estación espacial del Imperio."
+    },
+    {
+        "name": "Episodio V: El Imperio Contraataca",
+        "year": 1980,
+        "director": "Irvin Kershner",
+        "pic_sm": "foto-5-chica.jpg",
+        "pic_lg": "foto-5-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=xr3hPFJAHO4&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "La ficción de la película se sitúa tres años después de la destrucción de la estación espacial de combate conocida como la Estrella de la Muerte, destrucción acaecida al final del episodio anterior, Una Nueva Esperanza, estrenada en el año 1977. En El Imperio contraataca Luke Skywalker, Han Solo, Leia Organa y el resto de la Alianza Rebelde son perseguidos por Darth Vader y las fuerzas de élite del Imperio Galáctico. En este episodio se desarrolla la historia de amor entre Han y Leia, mientras que Luke aprende más sobre los caminos de la Fuerza de la mano del maestro Yoda. Con Han y Leia capturados por el Imperio, Luke luchará contra Darth Vader en una confrontación sin igual, pero Vader esconde una terrible revelación."
+    },
+    {
+        "name": "Episodio VI: El Retorno del Jedi",
+        "year": 1983,
+        "director": "Richard Marquand",
+        "pic_sm": "foto-6-chica.jpg",
+        "pic_lg": "foto-6-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=yhuKapE-Bio&ab_channel=StarWarsEspa%C3%B1a",
+        "description": "Seis meses después de que Han Solo fuera capturado y congelado en carbonita en la Ciudad de las Nubes, el Imperio Galáctico está construyendo una nueva Estrella de la Muerte. Mientras tanto, el joven Luke lucha para alcanzar la maestría jedi."
+    },
+    {
+        "name": "Episodio VII: El Despertar de la Fuerza",
+        "year": 2015,
+        "director": "J. J. Abrams",
+        "pic_sm": "foto-7-chica.jpg",
+        "pic_lg": "foto-7-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=5eKLdSDGh9k&ab_channel=StarWarsLatinoam%C3%A9rica",
+        "description": "Han pasado treinta años desde la Batalla final en Endor y la Galaxia no ha podido acabar con la tiranía y la opresión que esta aun presente en ella. La Alianza Rebelde se ha transformado en la Resistencia, brazo militar de la Nueva República que combate a la siniestra Primera Orden, una agrupación marcial nacida e influenciada por los restos del Imperio Galáctico que busca acabar con la Resistencia y la Nueva República."
+    },
+    {
+        "name": "Episodio VIII: Los Ultimos Jedi",
+        "year": 2017,
+        "director": "Rian Johnson",
+        "pic_sm": "foto-8-chica.jpg",
+        "pic_lg": "foto-8-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=3_YJYdJA6Yc",
+        "description": "La Primera Orden ha acorralado a los últimos miembros de la resistencia. Su última esperanza es que Finn se introduzca en la nave de Snoke y desactive el radar que les permite localizarlos. Mientras él trata, en compañía de una soldado de la Resistencia, de cumplir esta misión imposible, Rey se encuentra lejos, intentando convencer a Luke Skywalker de que la entrene y la convierta en la última jedi."
+    },
+    {
+        "name": "Episodio IX: El Ascenso de Skywalker",
+        "year": 2019,
+        "director": "J. J. Abrams",
+        "pic_sm": "foto-9-chica.jpg",
+        "pic_lg": "foto-9-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=tHzd6fPI2uY",
+        "description": "La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto de los héroes encararán nuevos retos y una batalla final con la sabiduría de las generaciones anteriores."
+    }
+]
