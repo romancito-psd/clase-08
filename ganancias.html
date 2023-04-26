@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Diseño y nuevos medios" />
+        <title>DNO037</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">
+            <nav>
+                <p><a href="index.html">Portada</a> <a href="peliculas.html">Películas</a> <a href="ganancias.html" class="active">Ganancias</a></p>
+            </nav>
+            <main>
+                <canvas id="grafico" height="40" width="100">
+                    <!--acá se mete el mapa-->
+                </canvas>
+            </main>
+            <footer>
+                <p><a href="https://github.com/romancito-psd">Felipe Román</a> <a href="https://github.com/romancito-psd">DNO037</a></p>
+            </footer>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.0/dist/chart.min.js"></script>
+    <script>
+var ctx = document.getElementById('grafico').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Episodio I', 'Episodio II', 'Episodio III', 'Episodio IV', 'Episodio V', 'Episodio VI', 'Episodio VII', 'Episodio VIII', 'Episodio IX'],
+        datasets: [{
+            label: 'PRESUPUESTO ($US MILLONES)',
+            data: [115, 115, 113, 13, 18, 32, 306, 200, 275],
+            backgroundColor: '#f53505',
+            borderWidth: 0,
+            hoverBorderColor: '#fff'
+        },
+        {
+            label: 'RECAUDACIÓN ($US MILLONES)',
+            data: [1027, 649, 848, 775, 538, 475, 2700, 1300, 1075],
+            backgroundColor: '#9ff5f5',
+            borderWidth: 0,
+            hoverBorderColor: '#fff'
+        }]
+    },
+options: {
+    indexAxis: 'y',
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+</script>
+    </body>
+</html>
